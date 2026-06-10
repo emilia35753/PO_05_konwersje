@@ -11,7 +11,7 @@ Projekt z przedmiotu **Programowanie obiektowe** skupiający się na konstruktor
 ### Struktura projektu
  
 ```
-├── Header_PO_05_emilia_lupa.h   # deklaracje klas
+├── Header_PO_05_emilia_lupa.h                     # deklaracje klas
 ├── Source_PO_05_emilia_lupa.cpp                   # implementacja metod
 └── Main_PO_05_emilia_lupa.cpp                     # funkcja główna
 ```
@@ -44,7 +44,7 @@ A coursework project for **Object-Oriented Programming** focusing on converting 
 ### Project structure
  
 ```
-├── Header_PO_05_emilia_lupa.h   # class declarations
+├── Header_PO_05_emilia_lupa.h                     # class declarations
 ├── Source_PO_05_emilia_lupa.cpp                   # method implementations
 └── Main_PO_05_emilia_lupa.cpp                     # main function
 ```
